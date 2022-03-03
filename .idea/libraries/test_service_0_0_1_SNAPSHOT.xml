@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="test-service-0.0.1-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../../multi module project/hello-project/test-service/target/test-service-0.0.1-SNAPSHOT.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
