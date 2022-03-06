@@ -24,8 +24,6 @@
             <groupId>org.example</groupId>
             <artifactId>test-service</artifactId>
             <version>1.0</version>
-            <scope>system</scope>
-            <systemPath>${basedir}/libs/test-service.jar</systemPath>
         </dependency>
     </dependencies>
 
